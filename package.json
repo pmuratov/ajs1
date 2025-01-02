@@ -1,9 +1,0 @@
-{
-  "main": ".index.js",
-  "dependencies": {
-    "@pmuratov/ajs": "^1.0.0"
-  },
-  "scripts": {
-    "start": "node src/index.js"
-  }
-}
